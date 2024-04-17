@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+
+<svg
+   xml:space="preserve"
+   width="136.93506mm"
+   height="123.76736mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 13693.515 12376.736"
+   id="svg6"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <defs
+   id="defs2"><style
+     type="text/css"
+     id="style1">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#300B3D}
+    .fil1 {fill:#300B3D;fill-rule:nonzero}
+    .fil3 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+   ]]>
+  </style><linearGradient
+     id="id0"
+     gradientUnits="userSpaceOnUse"
+     x1="19023.34"
+     y1="13281.74"
+     x2="19023.49"
+     y2="3294.1699">
+   <stop
+   offset="0"
+   style="stop-opacity:1; stop-color:#0357E1"
+   id="stop1" />
+   <stop
+   offset="1"
+   style="stop-opacity:1; stop-color:#D45BF1"
+   id="stop2" />
+  </linearGradient><linearGradient
+     id="id1"
+     gradientUnits="userSpaceOnUse"
+     xlink:href="#id0"
+     x1="9392.54"
+     y1="6907.6699"
+     x2="16975.199"
+     y2="14490.3">
+  </linearGradient><linearGradient
+     xlink:href="#id0"
+     id="linearGradient2"
+     gradientUnits="userSpaceOnUse"
+     x1="19023.34"
+     y1="13281.74"
+     x2="19023.49"
+     y2="3294.1699" /></defs>
+ <g
+   id="Layer_x0020_1"
+   transform="translate(-9092.6397,-3059.1797)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  <g
+   id="_1919771072352">
+   
+   <path
+   class="fil2"
+   d="m 18221.65,13153.64 c -1254.22,0 -2310.98,-460.23 -3056.41,-1233.13 -679.65,-93.79 -1188.15,-660.49 -1188.15,-1726.37 V 8773.85 6491.6 L 10400.73,4426.84 v 0 c -696.2,-401.92 -1308.09,27.97 -1308.09,720.9 v 3441.39 c 0,3781.36 3065.43,6846.79 6846.76,6846.79 3781.32,0 6846.75,-3065.43 6846.75,-6846.79 0,2520.94 -2043.63,4564.51 -4564.5,4564.51 z"
+   id="path3"
+   style="fill:url(#id1)" />
+   <path
+   class="fil3"
+   d="m 13981.93,10370.44 c 0,5742.95 8804.22,3787.55 8804.22,-1781.31 V 5094.1 L 19529.77,3214.02 v 0.03 c -696.2,-401.92 -1308.12,27.97 -1308.12,720.91 v 2573.47 l 2007.53,1159.07 c 827.3,477.63 833.25,1283.8 28.97,1748.15 l -3814.73,2202.46 c -1161.29,670.48 -2374.65,285.17 -2461.21,-1246.31 z"
+   id="path4"
+   style="fill:url(#linearGradient2)" />
+   <path
+   class="fil4"
+   d="m 15345.35,6595.67 v 3774.77 c 0,38.74 2.03,102.31 8.36,166.6 59.82,-24.7 117.2,-54.23 151.71,-74.16 l 3269.06,-1887.41 z"
+   id="path5" />
+   <path
+   class="fil4"
+   d="m 15241.22,6250.08 v 4436.75 c 0,45.53 2.38,120.25 9.83,195.81 70.3,-29.03 137.74,-63.74 178.31,-87.16 l 3842.35,-2218.41 z"
+   id="path6" />
+  </g>
+ </g>
+</svg>
