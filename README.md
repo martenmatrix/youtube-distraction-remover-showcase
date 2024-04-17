@@ -1,4 +1,4 @@
-<img alt="STiNE Logo" height="100" src="./assets/icon.svg"/>
+<img alt="STiNE Logo" height="100" src="https://raw.githubusercontent.com/martenmatrix/youtube-distraction-remover-showcase/main/icon.svg"/>
 
 # Unleash Focus: YouTube Distraction Blocker 
 
